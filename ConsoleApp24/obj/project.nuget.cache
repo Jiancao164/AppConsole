@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLy5eUyvAbqEmOXrfEoVD1zLgeca+e7lqN+YukgkAL529DLHxPMjiJoNnDRj1XycsqJLL6BCSGz+QlaS4OZm3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caojian\\RiderProjects\\ConsoleApp24\\ConsoleApp24\\ConsoleApp24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caojian\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\caojian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
