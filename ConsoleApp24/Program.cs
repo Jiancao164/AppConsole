@@ -20,6 +20,7 @@ using Microsoft.Extensions.DependencyInjection;
  
     Console.WriteLine("Done");
     Console.WriteLine("COMMIT2");
+    Console.WriteLine("COMMIT4");
 
 
 public interface IThing
