@@ -19,6 +19,7 @@ using Microsoft.Extensions.DependencyInjection;
     t!.DoStuff();
  
     Console.WriteLine("Done");
+    Console.WriteLine("COMMIT2");
 
 
 public interface IThing
